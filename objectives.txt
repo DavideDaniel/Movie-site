@@ -1,0 +1,11 @@
+Objectives
+
+	Keyboard Shortcuts
+	Terminal: What + Why
+	Navigation
+	Create, copy, move files
+	Atom
+
+Terminal -
+	Basic interface to utilize the computer
+	
